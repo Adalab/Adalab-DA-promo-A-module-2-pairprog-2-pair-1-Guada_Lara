@@ -45,7 +45,7 @@ REPASO
 
 **Jueves 12**
 
-- Limpieza VII
+- Limpieza VII -(Deberiamos mirar el orden, que creo que no van asi xD) Ejercicio terminado, falta revisar para que nos quede claro a ambas.
 - Limpieza VIII
 
 **Viernes 13**
