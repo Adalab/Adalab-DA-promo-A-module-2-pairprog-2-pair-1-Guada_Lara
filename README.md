@@ -41,7 +41,7 @@ REPASO
 **Miércoles 11**
 
 - Limpieza V
-- Limpieza VI
+- Limpieza VI - Ejercicios terminado, falta revisar comentarios y repasarlo juntas.
 
 **Jueves 12**
 
