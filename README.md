@@ -14,28 +14,29 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 **Miércoles 4**
 
 - Estadística II
-- EDA I - Ejercicios terminados & comentarios hechos (pendiente revisar juntas)
+- EDA I - Ejercicios terminados & comentarios hechos (pendiente revisar juntas).
 
 **Jueves 5**
 
 - Estadística III
-- EDA II - Revisar duda de enunciado "reportar datos del 70%", ¿todo el df o solo las freq? - (pendiente revisar y comentar + ampliar conclusiones)
+- EDA II - Ejercicios terminados & comentarios hechos (pendiente revisar juntas). (\*) En una duda sobre los % que preguntamos en clase, dijimos, creo, cómo hacer lo del 70% por sexo y tal, pero no me acuerdo bien. ¿lo vemos together? (\*) Mirar "debate" final.
 
 **Viernes 6**
 
 - Limpieza II
-- EDA III
+- EDA III - Ejercicios terminados & comentarios hechos (pendiente revisar juntas).
 
 👩🏽‍🦰👩🏽‍🦱💬
 
 # SEGUNDA SEMANA
 
 **Lunes 9**
-REPASO
+
+- REPASO
 
 **Martes 10**
 
-- Limpieza III
+- Limpieza III - Ejercicio terminado, falta revisar para que nos quede claro a ambas.
 - Limpieza IV
 
 **Miércoles 11**
@@ -45,8 +46,36 @@ REPASO
 
 **Jueves 12**
 
-- Limpieza VII -(Deberiamos mirar el orden, que creo que no van asi xD) Ejercicio terminado, falta revisar para que nos quede claro a ambas.
+- Limpieza VII -
 - Limpieza VIII
+
+**Viernes 13**
+
+- REPASO
+
+👩🏽‍🦰👩🏽‍🦱💬
+
+# TERCERA SEMANA
+
+**Lunes 16**
+FESTIVO
+
+**Martes 17**
+
+- ETL 1
+- ETL 2 (2.1)
+
+**Miércoles 11**
+
+- ETL 3 (2.2)
+- ETL 4 (3.1)
+
+**Jueves 12**
+
+- ETL 5 (3.2)
+- ETL 6 (4)
+
+🚒🚒 _¡ENTREGA PAIRS A LAS 17:00!_ 🚒🚒
 
 **Viernes 13**
 REPASO
