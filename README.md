@@ -8,7 +8,8 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 
 **Martes 3**
 
-- Estadística I - Ejercicios terminados (pendiente revisar y comentar)
+- Estadística I - Ejercicios terminados. [!] Revisar última parte, de gráficas, para hacer las comparaciones según los estadísticos. --> Podemos comparar con el boxplot, pero el gráfico de línea tenemos que verlo.
+
 - Limpieza I - - Ejercicios terminados & comentarios hechos (pendiente revisar juntas)
 
 **Miércoles 4**
