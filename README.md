@@ -10,7 +10,7 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 
 - Estadística I - Ejercicios terminados. [!] Revisar última parte, de gráficas, para hacer las comparaciones según los estadísticos. --> Podemos comparar con el boxplot, pero el gráfico de línea tenemos que verlo.
 
-- Limpieza I - - Ejercicios terminados & comentarios hechos (pendiente revisar juntas)
+- Limpieza I - - Ejercicios terminados & comentarios hechos (pendiente revisar juntas).
 
 **Miércoles 4**
 
@@ -24,7 +24,7 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 
 **Viernes 6**
 
-- Limpieza II
+- Limpieza II - Terminado (si da tiempo, revisar patrones delos tiburones).
 - EDA III - Ejercicios terminados & comentarios hechos (pendiente revisar juntas).
 
 👩🏽‍🦰👩🏽‍🦱💬
