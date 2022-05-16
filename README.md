@@ -14,7 +14,7 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 
 **Miércoles 4**
 
-- Estadística II
+- Estadística II - Mirado, revisar juntas y hacer comentarios del final.
 - EDA I - Ejercicios terminados & comentarios hechos (pendiente revisar juntas).
 
 **Jueves 5**
