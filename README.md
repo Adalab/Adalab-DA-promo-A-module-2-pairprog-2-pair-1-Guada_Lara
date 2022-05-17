@@ -63,7 +63,7 @@ FESTIVO
 
 **Martes 17**
 
-- ETL 1
+- ETL 1 - Terminado!!
 - ETL 2 (2.1)
 
 **Miércoles 11**
