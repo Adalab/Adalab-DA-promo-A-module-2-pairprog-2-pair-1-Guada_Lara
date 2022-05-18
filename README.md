@@ -37,18 +37,18 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 
 **Martes 10**
 
-- Limpieza III - Ejercicio terminado, falta revisar para que nos quede claro a ambas.
-- Limpieza IV
+- Limpieza III - Ejercicio terminado, falta revisar para que nos quede claro a ambas. Hay que mirar el final del ejercicio, porque hay una función "extraña".
+- Limpieza IV -Terminado y limpio.
 
 **Miércoles 11**
 
-- Limpieza V
-- Limpieza VI - Ejercicios terminado, falta revisar comentarios y repasarlo juntas.
+- Limpieza V - Terminado, pero se puede revisar la última cajita, para ver si podemos hacerlo de 4.
+- Limpieza VI - Terminado y limpio.
 
 **Jueves 12**
 
-- Limpieza VII -
-- Limpieza VIII
+- Limpieza VII -Terminado. Lo único que falta es comentar las gráficas.
+- Limpieza VIII - Terminado. Falta por comentar sobre la desviación y la media.
 
 **Viernes 13**
 
