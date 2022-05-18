@@ -19,7 +19,7 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 
 **Jueves 5**
 
-- Estadística III
+- Estadística III - Hacer último punto de desarrollo de conclusiones [!!!]
 - EDA II - Ejercicios terminados & comentarios hechos (pendiente revisar juntas). (\*) En una duda sobre los % que preguntamos en clase, dijimos, creo, cómo hacer lo del 70% por sexo y tal, pero no me acuerdo bien. ¿lo vemos together? (\*) Mirar "debate" final.
 
 **Viernes 6**
