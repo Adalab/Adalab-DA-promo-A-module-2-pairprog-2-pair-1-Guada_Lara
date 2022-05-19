@@ -8,7 +8,7 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 
 **Martes 3**
 
-- Estadística I - Ejercicios terminados. [!] Revisar última parte, de gráficas, para hacer las comparaciones según los estadísticos. --> Podemos comparar con el boxplot, pero el gráfico de línea tenemos que verlo.
+- Estadística I - Ejercicios terminados y revisado.
 
 - Limpieza I - - Ejercicios terminados & comentarios hechos (pendiente revisar juntas).
 
@@ -19,7 +19,7 @@ Módulo 2 - Pair Programming 2 - Guadalupe &amp; Lara
 
 **Jueves 5**
 
-- Estadística III - Hacer último punto de desarrollo de conclusiones [!!!]
+- Estadística III- ¡Revisado y terminado!
 - EDA II - Ejercicios terminados & comentarios hechos (pendiente revisar juntas). (\*) En una duda sobre los % que preguntamos en clase, dijimos, creo, cómo hacer lo del 70% por sexo y tal, pero no me acuerdo bien. ¿lo vemos together? (\*) Mirar "debate" final.
 
 **Viernes 6**
@@ -64,12 +64,12 @@ FESTIVO
 **Martes 17**
 
 - ETL 1 - Terminado!!
-- ETL 2 (2.1)
+- ETL 2 (2.1) - Terminado!!!
 
 **Miércoles 11**
 
-- ETL 3 (2.2)
-- ETL 4 (3.1)
+- ETL 3 (2.2) - Falta hacer la clase (mega función)
+- ETL 4 (3.1) - Terminado!!! Falta sólo el bonus (que está planteado)
 
 **Jueves 12**
 
